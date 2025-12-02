@@ -10,7 +10,7 @@ LAUNCHER_PATHS=("$HOME/.var/app/moe.launcher.sleepy-launcher/data/sleepy-launche
                 "$HOME/.local/share/sleepy-launcher")
 
 DXVK_NVAPI_VER="0.9.0"
-VKD3D_PROTON_VER="2.14.1"
+VKD3D_PROTON_VER="3.0a"
 
 DXVK_NVAPI_LINK="https://github.com/jp7677/dxvk-nvapi/releases/download/v${DXVK_NVAPI_VER}/dxvk-nvapi-v${DXVK_NVAPI_VER}.tar.gz"
 VKD3D_PROTON_LINK="https://github.com/HansKristian-Work/vkd3d-proton/releases/download/v${VKD3D_PROTON_VER}/vkd3d-proton-${VKD3D_PROTON_VER}.tar.zst"
